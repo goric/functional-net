@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aliases.cs" />
     <Compile Include="Currying.cs" />
     <Compile Include="PartialApplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
